@@ -1,3 +1,4 @@
+#task3 string1.py
 def fix_start(a):
     if a[0] in a[1:]:
         new = a[1:].replace(a[0],'*')
