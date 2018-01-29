@@ -1,3 +1,4 @@
+#first two and last two
 def both_ends(s):
     if len(s)<=2:
         return ""
